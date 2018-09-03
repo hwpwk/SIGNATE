@@ -1,2 +1,2 @@
 # SIGNATE
-タイタニック生存予測_ソースコード置き場
+タイタニック生存予測_https://signate.jp/competitions/102
